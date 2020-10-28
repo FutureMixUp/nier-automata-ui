@@ -5,7 +5,9 @@
   "description": "A short description of your UI theme",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "nier",
+    "nier-automata"
   ],
   "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
