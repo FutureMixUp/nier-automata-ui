@@ -2,7 +2,7 @@
   "name": "nier-automata-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "An attempt at recreating NieR:Automata's UI.",
   "keywords": [
     "ui",
     "theme",
