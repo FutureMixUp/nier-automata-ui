@@ -14,7 +14,7 @@
     background-color: @button-background-color-hover;
   }
   &:active {
-    color: fade(@text-color-selected, 66%);
+    color: @button-background-color-selected;
     background-color: darken(@button-background-color, 2%);
   }
   &.selected {
@@ -23,7 +23,7 @@
   }
   &:focus,
   &:focus:active {
-    outline: none;
+    outline: @base-border-color;
   }
 }
 
@@ -59,5 +59,5 @@
 // Button Group -----------------------
 
 .btn-group > .btn {
-  border-color: hsla(0,0%,0%,.2);
+  border-color: @base-border-color;
 }
