@@ -1,3 +1,5 @@
+# \[PROJECT CURRENTLY NOT WORKED ON ANYMORE\]
+
 # NieR:Automata UI theme
 
 An attempt at recreating NieR:Automata's UI.
